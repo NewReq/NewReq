@@ -1,4 +1,4 @@
-[<img src="https://travis-ci.org/NewReq/NewReq.svg?branch=master" alt="Build Status" />](https://travis-ci.org/NewReq/NewReq)
+[<img src="https://travis-ci.org/NewReq/NewReq.svg?branch=master" alt="Build Status" />](https://travis-ci.org/NewReq/NewReq) [![Join the chat at https://gitter.im/eliotsykes/rspec-rails-examples](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/newreq/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # NewReq
 
